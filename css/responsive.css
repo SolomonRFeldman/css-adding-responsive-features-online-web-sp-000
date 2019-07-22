@@ -47,5 +47,8 @@
   #logo h2 { display: none; }
   #logo { padding: 65px 0 0; }
   
-  #social { top: 65px; }
+  #social { 
+    top: 65px;
+    float: right;
+  }
 }
