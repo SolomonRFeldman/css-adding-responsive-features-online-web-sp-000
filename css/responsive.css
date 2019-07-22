@@ -44,7 +44,7 @@
   #navbar nav a.menu-icon { 
     width: 75px;
     display: block;
-    left: 10px;
+    left: 100px;
   }
   #logo h2 { display: none; }
   #logo { padding: 65px 0 0; }
